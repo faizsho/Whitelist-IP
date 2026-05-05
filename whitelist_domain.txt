@@ -1,3 +1,5 @@
 facebook.com
 instagram.com
 tiktok.com
+www.github.com
+.github.com
