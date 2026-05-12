@@ -3,3 +3,6 @@ instagram.com
 tiktok.com
 www.github.com
 .github.com
+live.hinodms.co.id
+new.hinodms.co.id
+.hinodms.co.id
