@@ -6,3 +6,4 @@ www.github.com
 live.hinodms.co.id
 new.hinodms.co.id
 .hinodms.co.id
+.bit.ly
