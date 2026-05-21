@@ -11,3 +11,4 @@ bit.ly
 .ijs.co.id
 ibstpks.pelindo.co.id
 .pelindo.co.id
+.rekha.co.id
