@@ -13,3 +13,4 @@ ibstpks.pelindo.co.id
 .pelindo.co.id
 .rekha.co.id
 .mahkamahagung.go.id
+.shopee.co.id
