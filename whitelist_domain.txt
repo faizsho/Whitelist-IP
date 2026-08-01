@@ -45,3 +45,4 @@ mitra.tokopedia.com
 .metaverse.com
 .oculus.com
 .oculuscdn.com
+.skintific.id
