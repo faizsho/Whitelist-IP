@@ -46,3 +46,8 @@ mitra.tokopedia.com
 .oculus.com
 .oculuscdn.com
 .skintific.id
+.primevideo.com
+.atv-ps.amazon.com
+.pv-cdn.net
+.aiv-delivery.net
+.amazonvideo.com
