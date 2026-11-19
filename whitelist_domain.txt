@@ -51,3 +51,6 @@ mitra.tokopedia.com
 .pv-cdn.net
 .aiv-delivery.net
 .amazonvideo.com
+.shopee.co.id
+.shopee.
+.shopeemobile.
