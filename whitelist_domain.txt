@@ -54,3 +54,4 @@ mitra.tokopedia.com
 .shopee.co.id
 .shopee.
 .shopeemobile.
+.m.media-amazon.com
